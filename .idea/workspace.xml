@@ -4,15 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22664714-55d5-4633-a8f3-9b605589d5bb" name="Changes" comment="https://github.com/Ashle303/Tarea4.git" />
+    <list default="true" id="22664714-55d5-4633-a8f3-9b605589d5bb" name="Changes" comment="https://github.com/Ashle303/Tarea4Login.git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ashle303"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Ashle303/Tarea4.git",
@@ -72,12 +84,29 @@
       <option name="project" value="LOCAL" />
       <updated>1753755339856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="https://github.com/Ashle303/Tarea4Login.git">
+      <option name="closed" value="true" />
+      <created>1753755425342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753755425342</updated>
+    </task>
+    <task id="LOCAL-00004" summary="https://github.com/Ashle303/Tarea4Login.git">
+      <option name="closed" value="true" />
+      <created>1753755597803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753755597803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://github.com/Ashle303/prueba.git" />
     <MESSAGE value="https://github.com/Ashle303/Tarea4.git" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Ashle303/Tarea4.git" />
+    <MESSAGE value="https://github.com/Ashle303/Tarea4Login.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Ashle303/Tarea4Login.git" />
   </component>
 </project>
